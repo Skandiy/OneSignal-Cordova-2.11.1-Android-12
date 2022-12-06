@@ -59,11 +59,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onesignal/OneSignal-Cordova-SDK.git"
+    "url": "git+https://github.com/Skandiy/OneSignal-Cordova-2.11.1-Android-12.git",
   },
   "author": "Josh Kasten, Brad Hesse, Rodrigo Gomez-Palacio",
   "bugs": {
-    "url": "https://github.com/onesignal/OneSignal-Cordova-SDK/issues"
+    "url": "https://github.com/Skandiy/OneSignal-Cordova-2.11.1-Android-12/issues"
   },
-  "homepage": "https://github.com/onesignal/OneSignal-Cordova-SDK#readme"
+  "homepage": "https://github.com/Skandiy/OneSignal-Cordova-2.11.1-Android-12#readme"
 }
