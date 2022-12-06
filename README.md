@@ -22,10 +22,10 @@ See the [Documentation](https://documentation.onesignal.com/docs) for installati
 See OneSignal's [Cordova SDK API](https://documentation.onesignal.com/docs/cordova-sdk) page for a list of all available methods.
 
 #### Change Log
-See this repository's [release tags](https://github.com/OneSignal/OneSignal-Cordova-SDK/releases) for a complete change log of every released version.
+See this repository's [release tags](https://github.com/Skandiy/OneSignal-Cordova-2.11.1-Android-12/releases) for a complete change log of every released version.
 
 #### Support
-Please visit this repository's [Github issue tracker](https://github.com/OneSignal/OneSignal-Cordova-SDK/issues) for feature requests and bug reports related specificly to the SDK.
+Please visit this repository's [Github issue tracker](https://github.com/Skandiy/OneSignal-Cordova-2.11.1-Android-12/issues) for feature requests and bug reports related specificly to the SDK.
 For account issues and support please contact OneSignal support from the [OneSignal.com](https://onesignal.com) dashboard.
 
 #### Demo Project
